@@ -21,18 +21,4 @@
   margin: 0 auto;
   padding: 20px;
 }
-.view-button {
-  margin-left: auto;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 4px;
-  padding: 5px 10px;
-  cursor: pointer;
-  transition: background-color 0.2s ease;
-}
-
-.view-button:hover {
-  background-color: #0056b3;
-}
 </style>
